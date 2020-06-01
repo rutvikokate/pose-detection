@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "398891882236",
+    "firebase_url": "https://edvard-5eb42.firebaseio.com",
+    "project_id": "edvard-5eb42",
+    "storage_bucket": "edvard-5eb42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398891882236:android:c34a16c0d3f96882",
+        "android_client_info": {
+          "package_name": "com.edvard.poseestimation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398891882236-l1bh7r10hr8abp02ujn2pehml62ra8lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNHDsM2U3lgIm3a6KnvPw6YxVByAYAqbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398891882236-l1bh7r10hr8abp02ujn2pehml62ra8lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
